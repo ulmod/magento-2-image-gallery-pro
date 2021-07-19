@@ -1,9 +1,9 @@
 # Magento 2 Image Gallery Pro Extension
 
 [Magento 2 Image Gallery Pro](https://www.ulmod.com/image-gallery-pro-for-magento-2.html)  is a Magento 2 extension that allows you to create any number of 
-photo and video galleries and showcase to your site visitors.
+photo/image/video galleries and showcase to your site visitors.
 
-With Magento 2 Image Gallery Pro you can bulk/mass upload photos or images, assign them to a specific gallery, and display at the storefront.
+With Magento 2 Image Gallery Pro, you can bulk/mass upload photos or images, assign them to a specific gallery, and display at the storefront.
 
 <a href="https://www.ulmod.com/image-gallery-pro-for-magento-2.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
