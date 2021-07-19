@@ -8,7 +8,7 @@ With Magento 2 Image Gallery Pro, you can bulk/mass upload photos or images, ass
 <a href="https://www.ulmod.com/image-gallery-pro-for-magento-2.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
 If you're looking for a standard Magento 2 Image Gallery extension that does not include bulk/mass uploads, you can download it
-<a href="https://www.ulmod.com/image-gallery-pro-for-magento-2.html">here</a>
+<a href="https://www.ulmod.com/image-gallery-for-magento-2.html">here</a>
 
 ## Key Features
 
